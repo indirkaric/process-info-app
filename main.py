@@ -30,8 +30,3 @@ def print_processes():
         print(process)
 
 print_processes()
-
-   
-
-
-
